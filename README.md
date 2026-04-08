@@ -2,55 +2,50 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing the KPN Fresh dataset to uncover meaningful insights related to business performance, customer behavior, and operational trends.
+This project focuses on analyzing the **KPN Fresh dataset** to extract meaningful insights related to business performance and trends.
 
-The goal is to transform raw data into actionable insights using data analysis and visualization techniques.
+The analysis is performed using **Power BI**, leveraging data transformation and visualization techniques to support data-driven decision-making.
 
 ---
 
 ## 🎯 Objectives
 
-* Perform basic data cleaning
-* Analyze key business metrics
-* Identify trends and patterns
-* Build visual insights using Power BI
+* Analyze business data to uncover trends and patterns
+* Identify key performance indicators (KPIs)
+* Generate insights for better decision-making
+* Build interactive and visual reports
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 * Power BI
-* Data Cleaning (Power Query)
+* Power Query (Data Transformation)
 * Data Visualization
-* Excel Dataset
+* Excel / CSV Dataset
 
 ---
 
-## 🔧 Data Cleaning (Power BI)
+## 🔄 Data Transformation
 
-Data was cleaned directly in Power BI using Power Query:
-
-* Fixed **spelling inconsistencies**
-* Handled **blank/null rows**
-* Removed unnecessary data
-* Standardized column values
+Data was prepared and transformed using Power Query in Power BI to ensure consistency and usability for analysis.
 
 ---
 
 ## 📊 Analysis Performed
 
 * Exploratory Data Analysis (EDA)
-* Trend Identification
+* Trend Analysis
 * KPI-based Analysis
-* Data Visualization using charts
+* Interactive Data Visualization
 
 ---
 
 ## 📈 Key Insights
 
-* Identified important trends in dataset
+* Identified important patterns and trends in the dataset
 * Highlighted key performance areas
-* Provided insights for better decision-making
+* Provided insights to support business decisions
 
 ---
 
@@ -62,7 +57,7 @@ Data was cleaned directly in Power BI using Power Query:
 
 ## 📁 Project Structure
 
-```id="kj2d0j"
+```id="m8s0gk"
 📂 KPN_fresh_analysis
  ┣ 📂 dataset
  ┣ 📂 business requirements
@@ -76,15 +71,15 @@ Data was cleaned directly in Power BI using Power Query:
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
-3. Explore visuals and insights
+3. Explore the dashboard and insights
 
 ---
 
 ## 💡 Business Value
 
-* Helps understand business data quickly
-* Supports decision-making through visualization
-* Demonstrates practical Power BI skills
+* Enables better understanding of business performance
+* Supports data-driven decision-making
+* Demonstrates practical data analysis and visualization skills
 
 ---
 
