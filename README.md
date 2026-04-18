@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing the **KPN Fresh dataset** to extract meaningful insights related to business performance and trends.
+This project focuses on analyzing the **KPN Fresh App dataset** to extract meaningful insights related to business performance and trends.
 
 The analysis is performed using **Power BI**, leveraging data transformation and visualization techniques to support data-driven decision-making.
 
